@@ -1,6 +1,8 @@
 ### My name is Nishant Agrawal. 
 
-Am a Principal Engineer at Apptio, working on Application Life-cycle Automation, Have experience in ETL and ML platforms to clean and process data, on-prem and cloud, at Petabyte Scale. I write code and work with Teams on greenfield Products, Microliths, and on improving NFRs of products and platforms across Business Units and Geographies.
+#### My Resume is available [here](https://docs.google.com/document/d/e/2PACX-1vS9AeI7EkIAum5w7NfQP1XV2uD91mcRjKRg8ihL3TbEiW9OimcaPPfDfUx3oYYkRlkQMn8O_4zLZSfO/pub).
+
+Am a Principal Engineer at Apptio, working on Application Life-cycle Automation. Have experience in ETL and ML platforms to clean and process data, on-prem or public cloud, at Petabyte Scale. I write code and work with Teams on greenfield Products, Microliths, and on improving NFRs of products and platforms across Business Units and Geographies.
 
 - 🔭 I’m currently working on AWS, Google Cloud, Python, Golang, Kubernetes, Operator-Framework, Java - SpringBoot Microservices, Messaging, Containers / Orchestration, and Open Telemetry.
 - 🌱 I’m recently learned Replication Control Protocols like Gossip / Epidemic, BloomFilters and Merkel Tree to reduce Entropy during Replication. Last year, I learnt Kotlin, and developed a Computer-Vision Android App.
